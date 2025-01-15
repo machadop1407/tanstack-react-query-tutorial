@@ -19,8 +19,6 @@ This repository contains the code examples demonstrated in the "Mastering Tansta
    git clone https://github.com/yourusername/tanstack-query-tutorial.git
    ```
 
-````
-
 2. **Install Dependencies:**
    ```bash
    cd tanstack-query-tutorial
@@ -52,4 +50,3 @@ This repository contains the code examples demonstrated in the "Mastering Tansta
 ## License
 
 This code is provided for educational purposes. You can freely modify, reuse, and adapt it for your projects.
-````
